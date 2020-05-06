@@ -1,3 +1,4 @@
+'use strict';
 let arr = ['plum.png', 'orange.jpg', 'apple.bmp'];
 
 // Изменения
